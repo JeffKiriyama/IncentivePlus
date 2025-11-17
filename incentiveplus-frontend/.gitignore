@@ -1,0 +1,13 @@
+# Ignora todas as pastas node_modules (o maior problema)
+node_modules/
+
+# Ignora os arquivos de build e cache do Next.js (front-end)
+.next/
+
+# Ignora os arquivos de segredos e senhas
+.env
+.env.local
+
+# Ignora lixo do Sistema Operacional
+.DS_Store
+Thumbs.db
